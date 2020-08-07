@@ -2,6 +2,8 @@
 
 Learned from '생활코딩' https://opentutorials.org/course/1
 
+Page deployed in github : https://bean-gno.github.io/WEB1/
+
 Making a sample webpage using HTML
 
 - Uses 'head, body'
