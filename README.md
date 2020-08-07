@@ -1,4 +1,4 @@
-# HTML project
+# HTML project1
 
 Learned from '생활코딩' https://opentutorials.org/course/1
 
