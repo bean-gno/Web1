@@ -1,4 +1,4 @@
-# HTML project1
+# Making a simple webpage
 
 Learned from '생활코딩' https://opentutorials.org/course/1
 
