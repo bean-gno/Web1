@@ -1,5 +1,6 @@
-# WEB1
-생활코딩강좌
+# HTML project
+
+Learned from '생활코딩' https://opentutorials.org/course/1
 
 Making a sample webpage using HTML
 
