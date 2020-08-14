@@ -1,12 +1,12 @@
-# Making a simple webpage
+# <i>A simple webpage</i>
 
 Learned from '생활코딩' https://opentutorials.org/course/1
 
 Page deployed in github : https://bean-gno.github.io/WEB1/
 
-<i>Making a sample webpage using HTML</i>
+I made a simple webpage using basic tags, following curriculum from the "open-source" tutorial site, "생활코딩"
 
-- Uses 'head, body'
-- Using list, numbering through ordered list
-- Heading using 'h', and 'p'
+- 'head, body'
+- list, ordered list
+- headings
 - Link anchor using 'a href' tag, image addition using 'img src'
