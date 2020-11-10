@@ -1,12 +1,6 @@
-# <i>A simple webpage</i>
+# Git for web development projects and studies
+# 웹개발 관련 프로젝트와 공부
 
-Learned from '생활코딩' https://opentutorials.org/course/1
+Ref.: '생활코딩' https://opentutorials.org/course/1
 
 Page deployed in github : https://bean-gno.github.io/WEB1/
-
-I made a simple webpage using basic tags, following curriculum from the "open-source" tutorial site, "생활코딩"
-
-- 'head, body'
-- list, ordered list
-- headings
-- Link anchor using 'a href' tag, image addition using 'img src'
