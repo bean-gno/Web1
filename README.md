@@ -1,5 +1,5 @@
-# A simple website for beginners
-# 초심자를 위한 간단한 웹사이트 제작
+## A simple website for beginners
+## 간단한 웹사이트
 
 Ref.: '생활코딩' https://opentutorials.org/course/1
 
